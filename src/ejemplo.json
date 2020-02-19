@@ -1,0 +1,24 @@
+[
+    {
+        "id":"1",
+        "Pelicula":"Avengers",
+        "Director":"James Cameron",
+        "Fecha de Estreno":"25/02/1999",
+        "Rating":"4.8"
+    },
+    {
+        "id":"2",
+        "Pelicula":"Jumanji",
+        "Director":"James Cameron",
+        "Fecha de Estreno":"25/09/2018",
+        "Rating":"5.8"
+    },
+    {
+        "id":"3",
+        "Pelicula":"IT",
+        "Director":"Steve Spilberg",
+        "Fecha de Estreno":"25/09/2018",
+        "Rating":"5.8"
+    }
+
+]
